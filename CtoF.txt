@@ -1,0 +1,10 @@
+Step 1: Multiply the Celcius temperature by 1.8.
+Step 2: Add 32 to the number given by the multiplication.
+Step 3: Stop, you have found the value of the degree in Fahrenheit.
+
+OR
+
+Step 1: Get value for C-temperature.
+Step 2: Set value of F-temperature t (1.8 x C-temp)+32.
+Step 3: Print the value of f-temperature.
+Step 4: Stop.

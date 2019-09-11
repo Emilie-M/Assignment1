@@ -1,0 +1,7 @@
+Step 1: Compare the first two numbers.
+Step 2: Pick the greatest number out of the two.
+Step 3: Take the biggest number and compare it to the next number.
+Step 4: Repeat steps 2 to 4 until you reach the end of the list.
+Step 5: When you have no more numbers to compare, you have reached the end of the list.
+Step 6: The number you finished with is the greatest number of the list.
+Step 7: Stop, you have found the biggest number of the list.
